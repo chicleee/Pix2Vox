@@ -6,7 +6,7 @@ This is a PaddlePaddle2.0 implementation of the paper [《Pix2Vox: Context-aware
 
 See the [official repo](https://github.com/hzxie/Pix2Vox) in Pytorch, as well as overview of the method.
 
-My repo:[https://github.com/chicleee/Pix2Vox](https://github.com/chicleee/Pix2Vox)
+AI Studio Notebook.
 
 **differences**
 
